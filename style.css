@@ -1,0 +1,12 @@
+body {
+    background-image: linear-gradient( maroon, rgb(189, 116, 20), rgb(235, 240, 169), rgb(208, 221, 245));
+    background-size: cover;
+    background-attachment: fixed;
+   
+  }
+  h1 {
+    color: gold;
+  }
+  h2 {
+    color: gold;
+  }
