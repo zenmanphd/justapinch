@@ -29,4 +29,5 @@ header {
     border-radius: 8px;
     max-width: fit-content;
     padding: 10px;
+    text-align: center;
   }
