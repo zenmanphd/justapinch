@@ -23,7 +23,7 @@ header {
   p {
     color: rgb(236, 215, 113);
   }
-  .wrapper {
+  div {
     border: 2px solid rgb(236, 215, 113);
     border-radius: 8px;
     max-width: fit-content;
