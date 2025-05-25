@@ -1,6 +1,6 @@
 header {
     background-image: url('pesto2.jpg');
-    object-fit: cover;
+    background-size: auto;
     height: 10%;
     border-radius: 10px;
     padding: 10px;
