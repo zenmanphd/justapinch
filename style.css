@@ -2,7 +2,7 @@ nav {
     background-image: url('pesto2.jpg');
     background-size: cover;
     background-attachment: fixed;
-    height: 100vh;
+    height: 100px;
   }
   body {
     background-color: rgb(221, 229, 229);
