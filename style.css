@@ -3,6 +3,7 @@ nav {
     background-size: cover;
     background-attachment: fixed;
     height: 10%;
+    border-radius: 10px;
   }
   body {
     background-color: rgb(56, 113, 113);
