@@ -27,4 +27,5 @@ header {
     border: 2px solid rgb(236, 215, 113);
     border-radius: 8px;
     max-width: fit-content;
+    padding: 10px;
   }
