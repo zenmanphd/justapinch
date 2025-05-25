@@ -1,8 +1,9 @@
 header {
     background-image: url('pesto2.jpg');
-    object-fit: contain;
+    object-fit: cover;
     height: 10%;
     border-radius: 10px;
+    padding: 10px;
   }
   body {
     background-color: rgb(56, 113, 113);
