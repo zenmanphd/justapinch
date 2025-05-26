@@ -2,7 +2,7 @@ header {
     background: url('pesto2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: bottom;
     height: 150px;
     border-radius: 10px;
     padding: 10px;
