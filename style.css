@@ -32,7 +32,7 @@ header {
   div {
     border: 2px solid rgb(255, 244, 33);
     border-radius: 8px;
-    max-width: fit-content;
+    max-width: 700px;
     padding: 10px;
     text-align: center;
     margin: auto;
