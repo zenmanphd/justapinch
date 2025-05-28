@@ -2,6 +2,7 @@
     background-image: url(pesto2.jpg);
     background-attachment: fixed;
     background-size: cover;
+    background-position: bottom;
   }
   h1 {
     color: rgb(247, 243, 180);
