@@ -35,6 +35,7 @@
     text-align: center;
     margin: auto;
     line-height: 1.6;
+    background-color: rgba(0, 255, 255, 0.511);
   }
   img {
     border-radius: 10px;
