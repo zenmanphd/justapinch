@@ -28,6 +28,7 @@
     color: rgb(247, 243, 180);
     font-size: larger;
     font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
   }
   div {
     max-width: 700px;
